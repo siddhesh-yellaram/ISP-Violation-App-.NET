@@ -1,0 +1,7 @@
+D:\test\.NET\ISPViolationApp\bin\Debug\ISPViolationApp.exe.config
+D:\test\.NET\ISPViolationApp\bin\Debug\ISPViolationApp.exe
+D:\test\.NET\ISPViolationApp\bin\Debug\ISPViolationApp.pdb
+D:\test\.NET\ISPViolationApp\obj\Debug\ISPViolationApp.csproj.AssemblyReference.cache
+D:\test\.NET\ISPViolationApp\obj\Debug\ISPViolationApp.csproj.CoreCompileInputs.cache
+D:\test\.NET\ISPViolationApp\obj\Debug\ISPViolationApp.exe
+D:\test\.NET\ISPViolationApp\obj\Debug\ISPViolationApp.pdb
